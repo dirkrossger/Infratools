@@ -6,3 +6,4 @@ version 1.0.4
 2019-05-08
 version 1.0.5
 * Layerdescription manager, helptool for BSAB kod for Bygghandling 90 layerstructure
+
