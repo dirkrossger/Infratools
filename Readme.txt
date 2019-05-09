@@ -7,3 +7,5 @@ version 1.0.4
 version 1.0.5
 * Layerdescription manager, helptool for BSAB kod for Bygghandling 90 layerstructure
 
+2019-05-09
+* fixed bug in Layerdescription manager listbox with type new layer
