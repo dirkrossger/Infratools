@@ -9,3 +9,6 @@ version 1.0.5
 
 2019-05-09
 * fixed bug in Layerdescription manager listbox with type new layer
+
+2019-05-18
+* mod_LayD display timer / double click create new layer
