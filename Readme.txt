@@ -14,4 +14,5 @@ version 1.0.5
 * mod_LayD display timer / double click create new layer
 
 2019-06-22
+version 1.0.6
 * slo_displ & slo_regen: calculate slopes between heights and update them
