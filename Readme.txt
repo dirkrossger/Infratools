@@ -16,3 +16,6 @@ version 1.0.5
 2019-06-22
 version 1.0.6
 * slo_displ & slo_regen: calculate slopes between heights and update them
+
+2020-03-03
+* implement Infratools in Autocad 2020 version
