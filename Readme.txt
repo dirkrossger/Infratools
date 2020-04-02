@@ -18,4 +18,11 @@ version 1.0.6
 * slo_displ & slo_regen: calculate slopes between heights and update them
 
 2020-03-03
+version 1.0.7
 * implement Infratools in Autocad 2020 version
+
+2020-04-02
+version 1.0.8
+* CDSTAMP - update drawing stamp as block with attributes
+* CDMULTIPLOT - plot selected layouts in drawing by one selection
+* CDDELLAYER - remove layer, even system layers from C3D
